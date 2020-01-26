@@ -403,7 +403,7 @@
               "color": "#232323"
             },
             "H2": {
-              "text-align": "center"
+              "text-align": "left"
             }
           },
           "_name": "features11",
